@@ -22,7 +22,7 @@ I'm a self taught front-end developer passionate about the problem solving and c
 - user authentication/ validation
 - next.js server-side rendering
 - data fetching
-- react context/state
+- react context/ state
 - custom hooks
 
 ### Checkers board game - in order to practice using typeScript
