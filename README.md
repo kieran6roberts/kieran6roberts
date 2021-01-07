@@ -4,15 +4,11 @@
 
 I'm a self taught front-end developer passionate about the problem solving and creative aspects of web development.
 
-[My portfolio](https://kieranroberts.dev "My portfolio")
+My portfolio is available here [https://kieranroberts.dev](https://kieranroberts.dev "My portfolio").
 
 ---
 
 [![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=kieran6roberts&hide=contribs&theme=tokyonight)](https://github.com/kieran6roberts/github-readme-stats)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kieran6roberts&hide=css&layout=compact)](https://github.com/kieran6roberts/github-readme-stats)
 
 ---
 
