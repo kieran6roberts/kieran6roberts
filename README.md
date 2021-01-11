@@ -14,11 +14,15 @@ My portfolio is available here [https://kieranroberts.dev](https://kieranroberts
 
 ## Curently working on:
 
-### Uproar music app - next.js/strapi app that integrates with spotify api and contains:
-- user authentication/ validation
-- next.js server-side rendering
-- data fetching
-- react context/ state
-- custom hooks
+### YourCoffeeShop - Full stack e-commerce site
+<br />
 
-### Checkers board game - in order to practice using typeScript
+It is a site built for a fictional coffee company that require a new online presence in order to be able to sell their products. The front-end is handled by next.js and chakra-ui while the backend utilizes hasura and auth0 for user creation, auth and storage and graphcms to handle the company products. The site will include:
+* product store
+* persistent product cart
+* user authentication
+* checkout process
+* payments
+* localization
+
+
