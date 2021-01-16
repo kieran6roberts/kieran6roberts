@@ -20,9 +20,10 @@ My portfolio is available here [https://kieranroberts.dev](https://kieranroberts
 It is a site built for a fictional coffee company that require a new online presence in order to be able to sell their products. The front-end is handled by next.js and chakra-ui while the backend utilizes hasura and auth0 for user creation, auth and storage and graphcms to handle the company products. The site will include:
 * product store
 * persistent product cart
+* persistent saved products
 * user authentication
+* product reviews
 * checkout process
 * payments
 * localization
-
 
