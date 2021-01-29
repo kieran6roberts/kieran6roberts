@@ -2,7 +2,7 @@
 
 ### My name is Kieran.
 
-I'm a self taught front-end developer passionate about the problem solving and creative aspects of web development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding, specifically front-end developement. I am now on the path of pursuing a career in this field that is constantly expanding with new and interseting topics to learn.
+I'm a self taught front-end developer passionate about the problem solving and creative aspects of web development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding, specifically front-end developement. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
 
 My portfolio is available here [https://kieranroberts.dev](https://kieranroberts.dev "My portfolio").
 
