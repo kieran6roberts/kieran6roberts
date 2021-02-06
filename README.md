@@ -1,4 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kieran.</h1>
+<h2 align="center">Front-end developer</h2><br />
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -14,16 +15,15 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
-I'm a self taught front-end developer passionate about the problem solving and creative aspects of web development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding, specifically front-end developement. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
+<br />I'm a self taught front-end developer passionate about the problem solving and creative aspects of web development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding, specifically front-end developement. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
 
-[<img alt="Kieran Roberts Dev.to blog" src="https://img.shields.io/badge/Kieran Roberts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >](https://dev.to/kieran6roberts)
+<br />[<img alt="Kieran Roberts Dev.to blog" src="https://img.shields.io/badge/Kieran Roberts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >](https://dev.to/kieran6roberts)
 [<img alt="Kieran Roberts Twitter handle" src="https://img.shields.io/badge/Kieran6dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" >](https://twitter.com/Kieran6dev)
 
 
 My portfolio is available here [https://kieranroberts.dev](https://kieranroberts.dev "My portfolio").
 
 ---
-
 [![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=kieran6roberts&hide=contribs&theme=tokyonight)](https://github.com/kieran6roberts/github-readme-stats)
 
 ---
