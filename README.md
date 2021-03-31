@@ -15,13 +15,14 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
-<br />I'm a self taught front-end developer passionate about the problem solving and creative aspects of web development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding, specifically front-end developement. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
+<br />I'm a software developer focused on front-end development and passionate about the problem solving and creative aspects of development. Having graduating with an electronic enginnering degree I decided to take some time out to travel and later discovered a passion for coding. I am now on the path of pursuing a career in this field that is constantly expanding with new and interesting topics to learn.
 
 <br />[<img alt="Kieran Roberts Dev.to blog" src="https://img.shields.io/badge/Kieran Roberts-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" >](https://dev.to/kieran6roberts)
 [<img alt="Kieran Roberts Twitter handle" src="https://img.shields.io/badge/Kieran6dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" >](https://twitter.com/Kieran6dev)
 
 
-My portfolio is available here [https://kieranroberts.dev](https://kieranroberts.dev "My portfolio").
+My portfolio is available here [kieranroberts.dev](https://kieranroberts.dev "My portfolio").<br />
+My blog is available here [blog.kieranroberts.dev](https://blog.kieranroberts.dev/).
 
 ---
 [![Kieran's github stats](https://github-readme-stats.vercel.app/api?username=kieran6roberts&hide=contribs&theme=tokyonight)](https://github.com/kieran6roberts/github-readme-stats)
