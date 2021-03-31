@@ -30,20 +30,6 @@ My portfolio is available here [https://kieranroberts.dev](https://kieranroberts
 
 ## Curently working on:
 
-### YourCoffeeShop - Full stack e-commerce site
-<br />
-
-It is a site built for a fictional coffee company that require a new online presence in order to be able to sell their products. The front-end is handled by next.js and chakra-ui while the backend utilizes hasura and auth0 for user creation, auth and storage and graphcms to handle the company products. The site will include:
-* product store
-* persistent product cart
-* persistent saved products
-* user authentication
-* product reviews
-* checkout process
-* payments
-* localization
-
-### Data structures and algorithms
-
-Currently preparing to apply for junior front-end developer roles by learning about data structures and algorithms while implementing them using JavaScript.
+- Preparing for front-end developer interviews
+- Blogging to help aspiring devlopers
 
