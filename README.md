@@ -24,19 +24,9 @@
 My portfolio is available here [kieranroberts.dev](https://kieranroberts.dev "My portfolio").<br />
 My blog is available here [blog.kieranroberts.dev](https://blog.kieranroberts.dev/).
 
----
-## Latest Blog Posts
-
-* [I built a full stack serverless e-commerce site with Next.js. Here's an honest review of what I learned and how it might help you](https://blog.kieranroberts.dev/i-built-a-full-stack-serverless-e-commerce-site-with-nextjs-heres-an-honest-review-of-what-i-learned-and-how-it-might-help-you)
-* [An introduction to @testing-library: Part 2](https://blog.kieranroberts.dev/an-introduction-to-testing-library-part-2)
-* [1 year into coding 🎉. Here are the tips I would go back and give myself](https://blog.kieranroberts.dev/1-year-into-coding-here-are-the-tips-i-would-go-back-and-give-myself)
-* [An introduction to @testing-library: Part 1](https://blog.kieranroberts.dev/an-introduction-to-testing-library-part-1)
-* [My most frequent React errors and how you fix them](https://blog.kieranroberts.dev/my-most-frequent-react-errors-and-how-you-fix-them)
----
-
 ## Curently working on:
 
 - Preparing for front-end developer interviews
-- Figma design then build project on a modern and responsive landing page
+- ButtonBuilder is an application that allows users to style html buttons using inputs and sliders and save/copy the styling
 - Blogging to help aspiring devlopers
 
