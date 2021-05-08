@@ -24,9 +24,3 @@
 My portfolio is available here [kieranroberts.dev](https://kieranroberts.dev "My portfolio").<br />
 My blog is available here [blog.kieranroberts.dev](https://blog.kieranroberts.dev/).
 
-## Curently working on:
-
-- Preparing for front-end developer interviews
-- ButtonBuilder is an application that allows users to style html buttons using inputs and sliders and save/copy the styling
-- Blogging to help aspiring devlopers
-
