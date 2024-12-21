@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, my name is Kieran.</h1>
-<h2 align="center">Full Stack Developer</h2><br />
+<h2 align="center">Product Software Engineer</h2><br />
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,7 +15,7 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
-<br />I'm a Full Stack JavaScript developer, passionate about the problem solving and creative aspects of development. Having graduated with a masters degeree in electronic enginnering, I decided to take some time out to travel and later discovered a passion for coding. I also love to write and regularly post web-development related articles inlcuding techincal stuff, and my progress as a developer new to full-time employment.
+<br />I'm a Software engineer focused on product and passionate about the problem solving and creative aspects of development. Having graduated with a masters degeree in electronic enginnering, I decided to take some time out to travel and later discovered a passion for coding. I also love to write and regularly post web-development related articles inlcuding techincal stuff, and my progress as a developer new to full-time employment.
 
 My blog is available here [blog.kieranroberts.dev](https://blog.kieranroberts.dev/).
 
