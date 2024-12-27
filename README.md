@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, my name is Kieran.</h1>
 <h2 align="center">Product Software Engineer</h2><br />
+
+Personal website: [kieranroberts.dev](https://kieranroberts.dev)<br />
+Blog: [blog.kieranroberts.dev](https://blog.kieranroberts.dev/).
+
 <div>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -15,9 +19,5 @@
 <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
-<br />I'm a Software engineer focused on product and passionate about the problem solving and creative aspects of development. Having graduated with a masters degeree in electronic enginnering, I decided to take some time out to travel and later discovered a passion for coding. I also love to write and regularly post web-development related articles inlcuding techincal stuff, and my progress as a developer new to full-time employment.
-
-My blog is available here [blog.kieranroberts.dev](https://blog.kieranroberts.dev/).
-
-[<img alt="Kieran Roberts Twitter handle" src="https://img.shields.io/badge/Kieran6dev%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" >](https://twitter.com/Kieran6dev)
+<br />I'm a Software engineer with 3+ years of industry experience focused on product and passionate about the problem solving and creative aspects of development. Having graduated with a masters degeree in electronic enginnering, I decided to take some time out to travel and later discovered a passion for coding.
 
