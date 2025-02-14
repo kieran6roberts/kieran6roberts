@@ -1,6 +1,6 @@
 <h1 align="center">Kieran Roberts</h1>
 
-JavaScript focused full-stack Software Engineer with almost 4 years of industry experience. I am passionate about building interactive fast, responsive, and accessible user interfaces, and delivering an exceptional user experience. Proficient with several modern technologies such as React (Next.js), TypeScript, Node.js, serverless tech (AWS/Cloudflare), and more.
+Product-focused Full-Stack Software Engineer with 4 years of industry experience working largely with React, TypeScript and Next.js. I am passionate about building interactive fast, responsive, and accessible user interfaces, and delivering an exceptional user experience to both B2B and B2C customers.
 
 <h3 align="left">Portfolio & CV</h3>
 
